@@ -1,5 +1,5 @@
 # Filepumper 🤓
-Bienvenue dans **File Pumper en Batch**, un outil simple et efficace pour augmenter la taille de vos fichiers en ajoutant une quantité spécifiée de kilooctets (Ko). Ce script batch est particulièrement utile pour tester des systèmes de gestion de fichiers, simuler des fichiers de grande taille, et bien plus encore.
+**File Pumper en Batch** est un outil simple et efficace pour augmenter la taille de vos fichiers en ajoutant une quantité spécifiée de kilooctets (Ko). Ce script batch est particulièrement utile pour tester des systèmes de gestion de fichiers, simuler des fichiers de grande taille, et bien plus encore.
 # Fonctionnalités 🔧
 
     Ajustement de la taille des fichiers : Ajoutez une quantité spécifique de Ko à vos fichiers existants.
